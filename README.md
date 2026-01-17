@@ -37,4 +37,5 @@ A structured end-to-end data platform to analyze customer behavior across multip
 ## Business Impact
 Delivered a trusted 360° view of customers, enabling personalized marketing, improved loyalty strategies, and data-driven operational decision-making.
 
-
+- **Dataset Link:**  
+https://www.kaggle.com/datasets/varunkumari/customer-360-data
